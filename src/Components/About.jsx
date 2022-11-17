@@ -20,7 +20,7 @@ const About = () => {
                     <div className='about_leftBox'>
                         <h1>Hi, I'm Akshay Pareek.</h1>
                         <p>I am Full Stack Web Developer and i have knowledge in HTML, CSS, JS, REACT and i make user-friendly websites.</p>
-                        <a href="https://drive.google.com/file/d/1_d-JP-xkc8WX593gsJ4VKEmD3hSD7enl/view?usp=share_link" target="_blank">
+                        <a href="https://drive.google.com/file/d/1ogbT0UkcLEC5gADxGVJ99VkU4KPiB1_a/view?usp=share_link" target="_blank">
                             <button>Download CV<DownloadIcon /></button>
                         </a>
 
