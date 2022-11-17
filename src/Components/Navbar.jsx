@@ -40,7 +40,7 @@ const Navbar = () => {
                     <li><Link activeClass="active" to="skills" onClick={() => setHead(true)} spy={true} smooth={true}>Skills</Link></li>
                     <li><Link activeClass="active" to="projects" onClick={() => setHead(true)} spy={true} smooth={true}>Projects</Link></li>
                     <li><Link activeClass="active" to="contact" onClick={() => setHead(true)} spy={true} smooth={true}>Contact</Link></li>
-                    <li><div className='resumeBox'><a className='resume' target="_blank" href="https://drive.google.com/file/d/1_d-JP-xkc8WX593gsJ4VKEmD3hSD7enl/view?usp=share_link">
+                    <li><div className='resumeBox'><a className='resume' target="_blank" href="https://drive.google.com/file/d/1ogbT0UkcLEC5gADxGVJ99VkU4KPiB1_a/view?usp=share_link">
                         Resume<DownloadIcon />
                     </a></div></li>
                 </ul>
