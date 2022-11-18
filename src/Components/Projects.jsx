@@ -42,7 +42,7 @@ const Projects = () => {
             keyPoint1: '',
             keyPoint2: '',
             githubLink: 'https://github.com/Akshaypareek01/unit-5-ProjectMasai',
-            deployedLink: 'https://effervescent-fairy-2266d6.netlify.app',
+            deployedLink: 'https://bluemercury-sibghat.netlify.app/',
             tags: ['HTML', 'CSS', 'Javascript']
         },
         {
