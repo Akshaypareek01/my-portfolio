@@ -54,7 +54,7 @@ const Projects = () => {
             keyPoint2: '',
             keyPoint1:' ',
             githubLink: 'https://akshaypareek01.github.io/Dogs-Tinder/',
-            deployedLink: 'TinDog (akshaypareek01.github.io)',
+            deployedLink: 'https://akshaypareek01.github.io/Dogs-Tinder/',
             tags: ['HTML', 'CSS', 'Javascript']
         }
     ]
